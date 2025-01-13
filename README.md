@@ -23,12 +23,12 @@ Untuk menjalankan aplikasi ini di perangkat Anda, ikuti langkah-langkah berikut:
 
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/https://github.com/Fatlem/App-Wekidi.git
+   git clone https://github.com/username/https://github.com/Fatlem/AppWekidi_S2.git
    ```
 
 2. **Masuk ke direktori proyek**:
    ```bash
-   cd App-Wekidi
+   cd AppWekidi
    ```
 
 3. **Instal dependensi**:
